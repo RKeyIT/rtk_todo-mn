@@ -14,4 +14,7 @@ Additional dependencies:
 - JSON server
 
 Self-experience:
-- TypeScript
+- TypeScript typing
+
+### Development steps
+1. Create API
