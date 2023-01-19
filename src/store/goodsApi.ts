@@ -6,7 +6,8 @@ export const goodsApi = createApi({
     reducerPath: 'goodsApi',
     tagTypes: ['goods'],
     baseQuery: fetchBaseQuery({
-        baseUrl: 'http://localhost:5000/',
+        baseUrl: 'https://mockend.com/RKeyIT/rtk_todo-mn/',
+        // baseUrl: 'http://localhost:5000/',
     }),
     endpoints: (build) => ({
         // C.R.U.D. - Create, Read, Update, Delete

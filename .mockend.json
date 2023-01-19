@@ -1,0 +1,12 @@
+{
+  "goods": [
+    {
+      "id": 0,
+      "name": "Milk"
+    },
+    {
+      "name": "Coffee",
+      "id": 1
+    }
+  ]
+}
