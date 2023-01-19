@@ -6,7 +6,7 @@ export const goodsApi = createApi({
     reducerPath: 'goodsApi',
     tagTypes: ['goods'],
     baseQuery: fetchBaseQuery({
-        baseUrl: 'https://mockend.com/RKeyIT/rtk_todo-mn/',
+        baseUrl: 'https://my-json-server.typicode.com/RKeyIT/simple-json-server/',
         // baseUrl: 'http://localhost:5000/',
     }),
     endpoints: (build) => ({
