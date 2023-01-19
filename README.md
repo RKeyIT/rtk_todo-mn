@@ -17,4 +17,7 @@ Self-experience:
 - TypeScript typing
 
 ### Development steps
-1. Create API
+1. Create API (from API we're will export
+   hooks additionally, because we needn't full store
+   in components)
+2. Create basic store.

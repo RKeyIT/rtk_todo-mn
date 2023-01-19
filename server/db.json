@@ -1,16 +1,12 @@
 {
   "goods": [
     {
-      "id": 1,
+      "id": 0,
       "name": "Milk"
     },
     {
-      "id": 2,
-      "name": "Coffee"
-    },
-    {
-      "id": 3,
-      "name": "Chocolate"
+      "name": "Coffee",
+      "id": 1
     }
   ]
 }
